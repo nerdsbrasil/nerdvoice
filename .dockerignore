@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log*
+.git
+.gitignore
+.env*
+.agents
+.claude
+skills-lock.json
+AGENTS.md
+README.md
+LICENSE
+Dockerfile
+docker-compose.yml
