@@ -1,0 +1,22 @@
+# Agent tooling
+.agents/
+.claude/
+skills-lock.json
+claude.md
+agents.md
+
+# Environment secrets (the template stays versioned)
+.env*
+!.env.examples
+
+# Dependencies and runtime output
+node_modules/
+coverage/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
