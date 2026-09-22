@@ -1,2 +1,2 @@
-# nerds-voice
+# nerdvoice
 Bot para gerenciamento de calls
